@@ -30,6 +30,25 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  Vedant:
+    name: Vedant
+    display_name: Vedant
+    avatar: 'assets/images/vedant.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: vedant.dwivedi55@gmail.com
+    web: www.datamaniac.ml
+    twitter: https://twitter.com/wowthemesnet
+    description: "An awesome content creator who like to write about ML | AI | Datascience | DevSecOps | Blockchain.A guy who is jack of all and master of some :)"
+  Somesh:
+    name: Somesh
+    display_name: Somesh
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: vedant.dwivedi55@gmail.com
+    web: www.datamaniac.ml
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
 
 # Plugins
 plugins:
