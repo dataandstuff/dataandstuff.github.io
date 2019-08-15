@@ -3,7 +3,7 @@ layout: post
 title:  "Power Of Data"
 author: Vedant
 categories: [ Jekyll, tutorial ]
-image: assets/images/mature_data_science.jpeg
+image: assets/images/mature_data_science.jpg
 ---
 There are lots of powerful things you can do with the data. Some of the best things can be seen when you look at your day to day activity.
 
@@ -47,6 +47,5 @@ print("Hello World")
 
 Here's a YouTube video for you:
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/watch?v=X3paOmcrTjQ" frameborder="0" allowfullscreen></iframe></p>
-
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/watch?v=X3paOmcrTjQ;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
