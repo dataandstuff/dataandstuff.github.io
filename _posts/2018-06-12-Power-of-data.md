@@ -47,5 +47,5 @@ print("Hello World")
 
 Here's a YouTube video for you:
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/watch?v=X3paOmcrTjQ;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ua-CiDNNj30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
