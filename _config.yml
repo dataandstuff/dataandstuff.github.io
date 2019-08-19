@@ -2,8 +2,8 @@
 name: "Datablog"
 title: "Datablog"
 description: "Data for Bloggers and Bloggers for Data."
-logo: 'assets/images/logo1.jpeg'
-favicon: 'assets/images/logo1.png'
+logo: 'assets/images/logo11.jpeg'
+favicon: 'assets/images/logo11.png'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
