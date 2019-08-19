@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:  "Power Of Data"
 author: Vedant
