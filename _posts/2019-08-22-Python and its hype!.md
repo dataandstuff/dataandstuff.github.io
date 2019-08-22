@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+![python.png]({{site.baseurl}}/_posts/python.png)
 
 ## Why Python?
 ![]({{site.baseurl}}/https://icon-library.net/images/python-icon/python-icon-28.jpg)
