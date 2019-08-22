@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![]({{site.baseurl}}/https://icon-library.net/images/python-icon/python-icon-28.jpg)
 ## Why Python?
@@ -11,9 +11,3 @@ python as we all know is something every developer ha sheard of its not new its 
 ## Love and support
 
 You cant deny the fact that python recieves the most highest order of love and support
-
-
-
-
-
-
