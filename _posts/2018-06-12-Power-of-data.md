@@ -4,6 +4,8 @@ title:  "Power Of Data"
 author: Vedant
 categories: [ Jekyll, tutorial ]
 image: assets/images/mature_data_science.jpg
+featured: true
+hidden: true
 ---
 There are lots of powerful things you can do with the data. Some of the best things can be seen when you look at your day to day activity.
 
