@@ -12,6 +12,7 @@ rating: 4.5
 ---
 
 >It is eaasier to stay out than get out ~ Mark twain
+
 #### What is wrong right now?
 
 It's actually really simple! not every citizen understand economy not everyone feels he is a part of it and no one now a days totally engages themselves with government system.
