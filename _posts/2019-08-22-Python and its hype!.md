@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:  "Python and its hype!"
 author: Vedant
