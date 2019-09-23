@@ -4,7 +4,7 @@ title:  "Threshold Point"
 author: Vedant
 categories: [ General ]
 tags: [red, yellow]
-image: assets/images/innovation_economy.png
+image: assets/images/innovation-economy.png
 description: "My view on current economy trend and what it takes to be inevitable system."
 featured: true
 hidden: true
